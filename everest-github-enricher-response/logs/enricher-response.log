@@ -1,0 +1,1979 @@
+2017-02-16 11:29:47,111 INFO enricher.response.ResponseQueueWorker [main]  [+] Waiting for messages in RESPONSE queue. To exit press CTRL+C 
+2017-02-16 11:29:47,167 INFO enricher.response.ResponseQueueWorker [pool-2-thread-4]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 11:45:38,243 INFO enricher.response.ResponseQueueWorker [main]  [+] Waiting for messages in RESPONSE queue. To exit press CTRL+C 
+2017-02-16 11:45:38,296 INFO enricher.response.ResponseQueueWorker [pool-2-thread-4]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 11:53:07,316 INFO enricher.response.ResponseQueueWorker [main]  [+] Waiting for messages in RESPONSE queue. To exit press CTRL+C 
+2017-02-16 11:53:07,382 INFO enricher.response.ResponseQueueWorker [pool-2-thread-4]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 11:53:28,094 INFO enricher.response.ResponseQueueWorker [pool-2-thread-4]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 11:54:09,511 INFO enricher.response.ResponseQueueWorker [main]  [+] Waiting for messages in RESPONSE queue. To exit press CTRL+C 
+2017-02-16 11:54:09,563 INFO enricher.response.ResponseQueueWorker [pool-2-thread-4]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 11:55:31,791 INFO enricher.response.ResponseQueueWorker [main]  [+] Waiting for messages in RESPONSE queue. To exit press CTRL+C 
+2017-02-16 11:55:31,839 INFO enricher.response.ResponseQueueWorker [pool-2-thread-4]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:07:03,035 INFO enricher.response.ResponseQueueWorker [main]  [+] Waiting for messages in RESPONSE queue. To exit press CTRL+C 
+2017-02-16 15:07:03,117 INFO enricher.response.ResponseQueueWorker [pool-2-thread-4]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:24:51,172 INFO enricher.response.ResponseQueueWorker [main]  [+] Waiting for messages in RESPONSE queue. To exit press CTRL+C 
+2017-02-16 15:24:51,259 INFO enricher.response.ResponseQueueWorker [pool-2-thread-4]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:25:24,581 CONFIG jersey.internal.ServiceFinder [pool-2-thread-4] Running in a non-OSGi environment 
+2017-02-16 15:27:32,938 INFO enricher.response.ResponseQueueWorker [main]  [+] Waiting for messages in RESPONSE queue. To exit press CTRL+C 
+2017-02-16 15:27:33,001 INFO enricher.response.ResponseQueueWorker [pool-2-thread-4]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:28:42,778 CONFIG jersey.internal.ServiceFinder [pool-2-thread-4] Running in a non-OSGi environment 
+2017-02-16 15:35:39,060 INFO enricher.response.ResponseQueueWorker [main]  [+] Waiting for messages in RESPONSE queue. To exit press CTRL+C 
+2017-02-16 15:35:39,113 INFO enricher.response.ResponseQueueWorker [pool-2-thread-4]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:35:44,105 CONFIG jersey.internal.ServiceFinder [pool-2-thread-4] Running in a non-OSGi environment 
+2017-02-16 15:35:46,617 INFO enricher.response.ResponseQueueWorker [pool-2-thread-4]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:37:24,364 INFO enricher.response.ResponseQueueWorker [main]  [+] Waiting for messages in RESPONSE queue. To exit press CTRL+C 
+2017-02-16 15:37:24,423 INFO enricher.response.ResponseQueueWorker [pool-2-thread-4]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:40:59,416 CONFIG jersey.internal.ServiceFinder [pool-2-thread-4] Running in a non-OSGi environment 
+2017-02-16 15:41:04,948 INFO enricher.response.ResponseQueueWorker [pool-2-thread-4]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:41:14,697 DEBUG enricher.response.ResponseQueueWorker [pool-2-thread-4] [x] Response sent to queue for ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:41:51,572 INFO enricher.response.ResponseQueueWorker [pool-2-thread-5]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:42:03,059 INFO enricher.response.ResponseQueueWorker [pool-2-thread-5]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:42:20,589 DEBUG enricher.response.ResponseQueueWorker [pool-2-thread-5] [x] Response sent to queue for ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:42:29,617 INFO enricher.response.ResponseQueueWorker [pool-2-thread-6]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:42:43,914 INFO enricher.response.ResponseQueueWorker [pool-2-thread-6]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:42:43,928 DEBUG enricher.response.ResponseQueueWorker [pool-2-thread-6] [x] Response sent to queue for ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:42:43,945 INFO enricher.response.ResponseQueueWorker [pool-2-thread-7]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:42:54,562 INFO enricher.response.ResponseQueueWorker [pool-2-thread-7]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:42:54,577 DEBUG enricher.response.ResponseQueueWorker [pool-2-thread-7] [x] Response sent to queue for ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:42:54,595 INFO enricher.response.ResponseQueueWorker [pool-2-thread-8]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:42:55,683 INFO enricher.response.ResponseQueueWorker [pool-2-thread-8]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:42:55,698 DEBUG enricher.response.ResponseQueueWorker [pool-2-thread-8] [x] Response sent to queue for ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:42:55,716 INFO enricher.response.ResponseQueueWorker [pool-2-thread-9]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:42:58,895 INFO enricher.response.ResponseQueueWorker [pool-2-thread-9] message moved to the failed queue http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:43:41,579 INFO enricher.response.ResponseQueueWorker [pool-2-thread-14]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:43:53,877 INFO enricher.response.ResponseQueueWorker [pool-2-thread-14]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:54:05,832 INFO enricher.response.ResponseQueueWorker [main]  [+] Waiting for messages in RESPONSE queue. To exit press CTRL+C 
+2017-02-16 15:54:05,886 INFO enricher.response.ResponseQueueWorker [pool-2-thread-4]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:54:10,653 CONFIG jersey.internal.ServiceFinder [pool-2-thread-4] Running in a non-OSGi environment 
+2017-02-16 15:54:24,484 CONFIG process.internal.ExecutorProviders [pool-2-thread-4] Selected ExecutorServiceProvider implementation [org.glassfish.jersey.client.DefaultClientAsyncExecutorProvider] to be used for injection of executor qualified by [org.glassfish.jersey.client.ClientAsyncExecutor] annotation. 
+2017-02-16 15:54:24,497 CONFIG client.internal.HttpUrlConnector [pool-2-thread-4] Restricted headers are not enabled using [sun.net.http.allowRestrictedHeaders] system property (setting only takes effect on connections created after the property has been set/changed). 
+2017-02-16 15:54:24,606 DEBUG util.collection.DataStructures [pool-2-thread-4] USING LTQ class:class java.util.concurrent.LinkedTransferQueue 
+2017-02-16 15:54:24,945 DEBUG jersey.logging.LoggingFeature [pool-2-thread-4] 1 * Sending client request on thread pool-2-thread-4
+1 > POST http://beta.rohub.org/rodl-sandbox/service/callback?nonce=2a2cfbd5-b32a-453b-9762-cb6f103ee34f
+1 > Accept: text/plain
+1 > Authorization: Bearer ZW5yaWNobWVudDpIODZjMzV3eWdDRHZ1Zw==
+1 > Content-Type: text/plain
+@prefix cdesc: <https://w3id.org/contentdesc#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix dc:    <http://purl.org/dc/terms/> .
+
+<subject/155762055>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "telecommunications" .
+
+<subject/-805513773>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "Global Positioning System" .
+
+<subject/1319330215>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "software" .
+
+<subject/104263205>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "music" .
+
+<subject/1738700944>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "invocation" .
+
+<subject/35379135>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "workflow" .
+
+<subject/-158747480>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "astronautics" .
+
+<subject/983004800>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "zipped folder" .
+
+<subject/2170562>  a    "https://w3id.org/contentdesc#Place" ;
+        skos:prefLabel  "Etna" .
+
+<subject/-1377687758>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "button" .
+
+<subject/3143036>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "file" .
+
+<subject/-1579103941>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "satellite" .
+
+<subject/108704329>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "route" .
+
+<subject/3565976>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tool" .
+
+<subject/62568241>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "ASCII" .
+
+<subject/384857974>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "IPWV map generation" .
+
+<subject/915501581>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "highway" .
+
+<subject/1011310809>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "programming" .
+
+<subject/-880788200>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tavern" .
+
+<subject/-1103879957>
+        a               "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "ascii file" .
+
+<subject/-642611311>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "Ro folder" .
+
+<subject/107868>  a     "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "map" .
+
+<http://sandbox.rohub.org/rodl/ROs/IPWV01/>
+        dc:subject  <subject/155762055> , <subject/-1103879957> , <subject/3565976> , <subject/983004800> , <subject/-642611311> , <subject/-1377687758> , <subject/-880788200> , <subject/1087106672> , <subject/62568241> , <subject/-158747480> , <subject/3143036> , <subject/108704329> , <subject/1738700944> , <subject/1319330215> , <subject/104263205> , <subject/35379135> , <subject/1011310809> , <subject/384857974> , <subject/-1579103941> , <subject/915501581> , <subject/2170562> , <subject/-805513773> , <subject/107868> .
+
+<subject/1087106672>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "services folder" .
+
+ 
+2017-02-16 15:54:26,277 DEBUG jersey.logging.LoggingFeature [pool-2-thread-4] 1 * Client response received on thread pool-2-thread-4
+1 < 404
+1 < Connection: Keep-Alive
+1 < Content-Length: 967
+1 < Content-Type: text/html;charset=utf-8
+1 < Date: Thu, 16 Feb 2017 14:55:10 GMT
+1 < Keep-Alive: timeout=5, max=100
+1 < Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+<html><head><title>Apache Tomcat/7.0.42 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - Not Found</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>Not Found</u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.42</h3></body></html>
+ 
+2017-02-16 15:55:12,304 INFO enricher.response.ResponseQueueWorker [pool-2-thread-4] callback failed with 404 
+2017-02-16 15:55:23,052 INFO enricher.response.ResponseQueueWorker [pool-2-thread-4]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:55:27,212 DEBUG enricher.response.ResponseQueueWorker [pool-2-thread-4] [x] Response sent to queue for ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:55:27,230 INFO enricher.response.ResponseQueueWorker [pool-2-thread-5]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:55:29,337 CONFIG process.internal.ExecutorProviders [pool-2-thread-5] Selected ExecutorServiceProvider implementation [org.glassfish.jersey.client.DefaultClientAsyncExecutorProvider] to be used for injection of executor qualified by [org.glassfish.jersey.client.ClientAsyncExecutor] annotation. 
+2017-02-16 15:55:29,340 CONFIG client.internal.HttpUrlConnector [pool-2-thread-5] Restricted headers are not enabled using [sun.net.http.allowRestrictedHeaders] system property (setting only takes effect on connections created after the property has been set/changed). 
+2017-02-16 15:55:29,396 DEBUG jersey.logging.LoggingFeature [pool-2-thread-5] 1 * Sending client request on thread pool-2-thread-5
+1 > POST http://beta.rohub.org/rodl-sandbox/service/callback?nonce=2a2cfbd5-b32a-453b-9762-cb6f103ee34f
+1 > Accept: text/plain
+1 > Authorization: Bearer ZW5yaWNobWVudDpIODZjMzV3eWdDRHZ1Zw==
+1 > Content-Type: text/plain
+@prefix cdesc: <https://w3id.org/contentdesc#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix dc:    <http://purl.org/dc/terms/> .
+
+<subject/155762055>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "telecommunications" .
+
+<subject/-805513773>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "Global Positioning System" .
+
+<subject/1319330215>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "software" .
+
+<subject/104263205>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "music" .
+
+<subject/1738700944>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "invocation" .
+
+<subject/35379135>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "workflow" .
+
+<subject/-158747480>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "astronautics" .
+
+<subject/983004800>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "zipped folder" .
+
+<subject/2170562>  a    "https://w3id.org/contentdesc#Place" ;
+        skos:prefLabel  "Etna" .
+
+<subject/-1377687758>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "button" .
+
+<subject/3143036>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "file" .
+
+<subject/-1579103941>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "satellite" .
+
+<subject/108704329>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "route" .
+
+<subject/3565976>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tool" .
+
+<subject/62568241>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "ASCII" .
+
+<subject/384857974>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "IPWV map generation" .
+
+<subject/915501581>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "highway" .
+
+<subject/1011310809>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "programming" .
+
+<subject/-880788200>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tavern" .
+
+<subject/-1103879957>
+        a               "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "ascii file" .
+
+<subject/-642611311>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "Ro folder" .
+
+<subject/107868>  a     "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "map" .
+
+<http://sandbox.rohub.org/rodl/ROs/IPWV01/>
+        dc:subject  <subject/155762055> , <subject/-1103879957> , <subject/3565976> , <subject/983004800> , <subject/-642611311> , <subject/-1377687758> , <subject/-880788200> , <subject/1087106672> , <subject/62568241> , <subject/-158747480> , <subject/3143036> , <subject/108704329> , <subject/1738700944> , <subject/1319330215> , <subject/104263205> , <subject/35379135> , <subject/1011310809> , <subject/384857974> , <subject/-1579103941> , <subject/915501581> , <subject/2170562> , <subject/-805513773> , <subject/107868> .
+
+<subject/1087106672>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "services folder" .
+
+ 
+2017-02-16 15:55:29,595 DEBUG jersey.logging.LoggingFeature [pool-2-thread-5] 1 * Client response received on thread pool-2-thread-5
+1 < 404
+1 < Connection: Keep-Alive
+1 < Content-Length: 967
+1 < Content-Type: text/html;charset=utf-8
+1 < Date: Thu, 16 Feb 2017 14:56:15 GMT
+1 < Keep-Alive: timeout=5, max=100
+1 < Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+<html><head><title>Apache Tomcat/7.0.42 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - Not Found</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>Not Found</u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.42</h3></body></html>
+ 
+2017-02-16 15:55:29,596 INFO enricher.response.ResponseQueueWorker [pool-2-thread-5] callback failed with 404 
+2017-02-16 15:55:29,596 INFO enricher.response.ResponseQueueWorker [pool-2-thread-5]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:55:29,608 DEBUG enricher.response.ResponseQueueWorker [pool-2-thread-5] [x] Response sent to queue for ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:55:29,624 INFO enricher.response.ResponseQueueWorker [pool-2-thread-6]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:55:31,691 CONFIG process.internal.ExecutorProviders [pool-2-thread-6] Selected ExecutorServiceProvider implementation [org.glassfish.jersey.client.DefaultClientAsyncExecutorProvider] to be used for injection of executor qualified by [org.glassfish.jersey.client.ClientAsyncExecutor] annotation. 
+2017-02-16 15:55:31,693 CONFIG client.internal.HttpUrlConnector [pool-2-thread-6] Restricted headers are not enabled using [sun.net.http.allowRestrictedHeaders] system property (setting only takes effect on connections created after the property has been set/changed). 
+2017-02-16 15:55:31,742 DEBUG jersey.logging.LoggingFeature [pool-2-thread-6] 1 * Sending client request on thread pool-2-thread-6
+1 > POST http://beta.rohub.org/rodl-sandbox/service/callback?nonce=2a2cfbd5-b32a-453b-9762-cb6f103ee34f
+1 > Accept: text/plain
+1 > Authorization: Bearer ZW5yaWNobWVudDpIODZjMzV3eWdDRHZ1Zw==
+1 > Content-Type: text/plain
+@prefix cdesc: <https://w3id.org/contentdesc#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix dc:    <http://purl.org/dc/terms/> .
+
+<subject/155762055>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "telecommunications" .
+
+<subject/-805513773>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "Global Positioning System" .
+
+<subject/1319330215>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "software" .
+
+<subject/104263205>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "music" .
+
+<subject/1738700944>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "invocation" .
+
+<subject/35379135>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "workflow" .
+
+<subject/-158747480>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "astronautics" .
+
+<subject/983004800>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "zipped folder" .
+
+<subject/2170562>  a    "https://w3id.org/contentdesc#Place" ;
+        skos:prefLabel  "Etna" .
+
+<subject/-1377687758>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "button" .
+
+<subject/3143036>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "file" .
+
+<subject/-1579103941>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "satellite" .
+
+<subject/108704329>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "route" .
+
+<subject/3565976>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tool" .
+
+<subject/62568241>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "ASCII" .
+
+<subject/384857974>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "IPWV map generation" .
+
+<subject/915501581>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "highway" .
+
+<subject/1011310809>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "programming" .
+
+<subject/-880788200>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tavern" .
+
+<subject/-1103879957>
+        a               "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "ascii file" .
+
+<subject/-642611311>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "Ro folder" .
+
+<subject/107868>  a     "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "map" .
+
+<http://sandbox.rohub.org/rodl/ROs/IPWV01/>
+        dc:subject  <subject/155762055> , <subject/-1103879957> , <subject/3565976> , <subject/983004800> , <subject/-642611311> , <subject/-1377687758> , <subject/-880788200> , <subject/1087106672> , <subject/62568241> , <subject/-158747480> , <subject/3143036> , <subject/108704329> , <subject/1738700944> , <subject/1319330215> , <subject/104263205> , <subject/35379135> , <subject/1011310809> , <subject/384857974> , <subject/-1579103941> , <subject/915501581> , <subject/2170562> , <subject/-805513773> , <subject/107868> .
+
+<subject/1087106672>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "services folder" .
+
+ 
+2017-02-16 15:55:31,870 DEBUG jersey.logging.LoggingFeature [pool-2-thread-6] 1 * Client response received on thread pool-2-thread-6
+1 < 404
+1 < Connection: Keep-Alive
+1 < Content-Length: 967
+1 < Content-Type: text/html;charset=utf-8
+1 < Date: Thu, 16 Feb 2017 14:56:17 GMT
+1 < Keep-Alive: timeout=5, max=99
+1 < Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+<html><head><title>Apache Tomcat/7.0.42 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - Not Found</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>Not Found</u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.42</h3></body></html>
+ 
+2017-02-16 15:55:31,871 INFO enricher.response.ResponseQueueWorker [pool-2-thread-6] callback failed with 404 
+2017-02-16 15:55:31,871 INFO enricher.response.ResponseQueueWorker [pool-2-thread-6]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:55:31,885 DEBUG enricher.response.ResponseQueueWorker [pool-2-thread-6] [x] Response sent to queue for ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:55:31,901 INFO enricher.response.ResponseQueueWorker [pool-2-thread-7]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:55:33,216 CONFIG process.internal.ExecutorProviders [pool-2-thread-7] Selected ExecutorServiceProvider implementation [org.glassfish.jersey.client.DefaultClientAsyncExecutorProvider] to be used for injection of executor qualified by [org.glassfish.jersey.client.ClientAsyncExecutor] annotation. 
+2017-02-16 15:55:33,217 CONFIG client.internal.HttpUrlConnector [pool-2-thread-7] Restricted headers are not enabled using [sun.net.http.allowRestrictedHeaders] system property (setting only takes effect on connections created after the property has been set/changed). 
+2017-02-16 15:55:33,254 DEBUG jersey.logging.LoggingFeature [pool-2-thread-7] 1 * Sending client request on thread pool-2-thread-7
+1 > POST http://beta.rohub.org/rodl-sandbox/service/callback?nonce=2a2cfbd5-b32a-453b-9762-cb6f103ee34f
+1 > Accept: text/plain
+1 > Authorization: Bearer ZW5yaWNobWVudDpIODZjMzV3eWdDRHZ1Zw==
+1 > Content-Type: text/plain
+@prefix cdesc: <https://w3id.org/contentdesc#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix dc:    <http://purl.org/dc/terms/> .
+
+<subject/155762055>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "telecommunications" .
+
+<subject/-805513773>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "Global Positioning System" .
+
+<subject/1319330215>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "software" .
+
+<subject/104263205>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "music" .
+
+<subject/1738700944>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "invocation" .
+
+<subject/35379135>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "workflow" .
+
+<subject/-158747480>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "astronautics" .
+
+<subject/983004800>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "zipped folder" .
+
+<subject/2170562>  a    "https://w3id.org/contentdesc#Place" ;
+        skos:prefLabel  "Etna" .
+
+<subject/-1377687758>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "button" .
+
+<subject/3143036>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "file" .
+
+<subject/-1579103941>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "satellite" .
+
+<subject/108704329>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "route" .
+
+<subject/3565976>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tool" .
+
+<subject/62568241>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "ASCII" .
+
+<subject/384857974>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "IPWV map generation" .
+
+<subject/915501581>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "highway" .
+
+<subject/1011310809>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "programming" .
+
+<subject/-880788200>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tavern" .
+
+<subject/-1103879957>
+        a               "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "ascii file" .
+
+<subject/-642611311>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "Ro folder" .
+
+<subject/107868>  a     "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "map" .
+
+<http://sandbox.rohub.org/rodl/ROs/IPWV01/>
+        dc:subject  <subject/155762055> , <subject/-1103879957> , <subject/3565976> , <subject/983004800> , <subject/-642611311> , <subject/-1377687758> , <subject/-880788200> , <subject/1087106672> , <subject/62568241> , <subject/-158747480> , <subject/3143036> , <subject/108704329> , <subject/1738700944> , <subject/1319330215> , <subject/104263205> , <subject/35379135> , <subject/1011310809> , <subject/384857974> , <subject/-1579103941> , <subject/915501581> , <subject/2170562> , <subject/-805513773> , <subject/107868> .
+
+<subject/1087106672>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "services folder" .
+
+ 
+2017-02-16 15:55:33,375 DEBUG jersey.logging.LoggingFeature [pool-2-thread-7] 1 * Client response received on thread pool-2-thread-7
+1 < 404
+1 < Connection: Keep-Alive
+1 < Content-Length: 967
+1 < Content-Type: text/html;charset=utf-8
+1 < Date: Thu, 16 Feb 2017 14:56:19 GMT
+1 < Keep-Alive: timeout=5, max=98
+1 < Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+<html><head><title>Apache Tomcat/7.0.42 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - Not Found</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>Not Found</u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.42</h3></body></html>
+ 
+2017-02-16 15:55:33,375 INFO enricher.response.ResponseQueueWorker [pool-2-thread-7] callback failed with 404 
+2017-02-16 15:55:33,375 INFO enricher.response.ResponseQueueWorker [pool-2-thread-7]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:55:33,389 DEBUG enricher.response.ResponseQueueWorker [pool-2-thread-7] [x] Response sent to queue for ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:55:33,404 INFO enricher.response.ResponseQueueWorker [pool-2-thread-8]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:55:34,783 CONFIG process.internal.ExecutorProviders [pool-2-thread-8] Selected ExecutorServiceProvider implementation [org.glassfish.jersey.client.DefaultClientAsyncExecutorProvider] to be used for injection of executor qualified by [org.glassfish.jersey.client.ClientAsyncExecutor] annotation. 
+2017-02-16 15:55:34,784 CONFIG client.internal.HttpUrlConnector [pool-2-thread-8] Restricted headers are not enabled using [sun.net.http.allowRestrictedHeaders] system property (setting only takes effect on connections created after the property has been set/changed). 
+2017-02-16 15:55:34,830 DEBUG jersey.logging.LoggingFeature [pool-2-thread-8] 1 * Sending client request on thread pool-2-thread-8
+1 > POST http://beta.rohub.org/rodl-sandbox/service/callback?nonce=2a2cfbd5-b32a-453b-9762-cb6f103ee34f
+1 > Accept: text/plain
+1 > Authorization: Bearer ZW5yaWNobWVudDpIODZjMzV3eWdDRHZ1Zw==
+1 > Content-Type: text/plain
+@prefix cdesc: <https://w3id.org/contentdesc#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix dc:    <http://purl.org/dc/terms/> .
+
+<subject/155762055>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "telecommunications" .
+
+<subject/-805513773>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "Global Positioning System" .
+
+<subject/1319330215>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "software" .
+
+<subject/104263205>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "music" .
+
+<subject/1738700944>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "invocation" .
+
+<subject/35379135>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "workflow" .
+
+<subject/-158747480>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "astronautics" .
+
+<subject/983004800>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "zipped folder" .
+
+<subject/2170562>  a    "https://w3id.org/contentdesc#Place" ;
+        skos:prefLabel  "Etna" .
+
+<subject/-1377687758>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "button" .
+
+<subject/3143036>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "file" .
+
+<subject/-1579103941>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "satellite" .
+
+<subject/108704329>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "route" .
+
+<subject/3565976>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tool" .
+
+<subject/62568241>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "ASCII" .
+
+<subject/384857974>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "IPWV map generation" .
+
+<subject/915501581>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "highway" .
+
+<subject/1011310809>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "programming" .
+
+<subject/-880788200>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tavern" .
+
+<subject/-1103879957>
+        a               "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "ascii file" .
+
+<subject/-642611311>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "Ro folder" .
+
+<subject/107868>  a     "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "map" .
+
+<http://sandbox.rohub.org/rodl/ROs/IPWV01/>
+        dc:subject  <subject/155762055> , <subject/-1103879957> , <subject/3565976> , <subject/983004800> , <subject/-642611311> , <subject/-1377687758> , <subject/-880788200> , <subject/1087106672> , <subject/62568241> , <subject/-158747480> , <subject/3143036> , <subject/108704329> , <subject/1738700944> , <subject/1319330215> , <subject/104263205> , <subject/35379135> , <subject/1011310809> , <subject/384857974> , <subject/-1579103941> , <subject/915501581> , <subject/2170562> , <subject/-805513773> , <subject/107868> .
+
+<subject/1087106672>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "services folder" .
+
+ 
+2017-02-16 15:55:34,949 DEBUG jersey.logging.LoggingFeature [pool-2-thread-8] 1 * Client response received on thread pool-2-thread-8
+1 < 404
+1 < Connection: Keep-Alive
+1 < Content-Length: 967
+1 < Content-Type: text/html;charset=utf-8
+1 < Date: Thu, 16 Feb 2017 14:56:20 GMT
+1 < Keep-Alive: timeout=5, max=97
+1 < Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+<html><head><title>Apache Tomcat/7.0.42 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - Not Found</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>Not Found</u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.42</h3></body></html>
+ 
+2017-02-16 15:55:34,949 INFO enricher.response.ResponseQueueWorker [pool-2-thread-8] callback failed with 404 
+2017-02-16 15:55:34,949 INFO enricher.response.ResponseQueueWorker [pool-2-thread-8]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:55:34,963 DEBUG enricher.response.ResponseQueueWorker [pool-2-thread-8] [x] Response sent to queue for ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:55:34,979 INFO enricher.response.ResponseQueueWorker [pool-2-thread-9]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:55:39,517 CONFIG process.internal.ExecutorProviders [pool-2-thread-9] Selected ExecutorServiceProvider implementation [org.glassfish.jersey.client.DefaultClientAsyncExecutorProvider] to be used for injection of executor qualified by [org.glassfish.jersey.client.ClientAsyncExecutor] annotation. 
+2017-02-16 15:55:39,522 CONFIG client.internal.HttpUrlConnector [pool-2-thread-9] Restricted headers are not enabled using [sun.net.http.allowRestrictedHeaders] system property (setting only takes effect on connections created after the property has been set/changed). 
+2017-02-16 15:55:39,654 DEBUG jersey.logging.LoggingFeature [pool-2-thread-9] 1 * Sending client request on thread pool-2-thread-9
+1 > POST http://beta.rohub.org/rodl-sandbox/service/callback?nonce=2a2cfbd5-b32a-453b-9762-cb6f103ee34f
+1 > Accept: text/plain
+1 > Authorization: Bearer ZW5yaWNobWVudDpIODZjMzV3eWdDRHZ1Zw==
+1 > Content-Type: text/plain
+@prefix cdesc: <https://w3id.org/contentdesc#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix dc:    <http://purl.org/dc/terms/> .
+
+<subject/155762055>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "telecommunications" .
+
+<subject/-805513773>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "Global Positioning System" .
+
+<subject/1319330215>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "software" .
+
+<subject/104263205>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "music" .
+
+<subject/1738700944>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "invocation" .
+
+<subject/35379135>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "workflow" .
+
+<subject/-158747480>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "astronautics" .
+
+<subject/983004800>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "zipped folder" .
+
+<subject/2170562>  a    "https://w3id.org/contentdesc#Place" ;
+        skos:prefLabel  "Etna" .
+
+<subject/-1377687758>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "button" .
+
+<subject/3143036>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "file" .
+
+<subject/-1579103941>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "satellite" .
+
+<subject/108704329>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "route" .
+
+<subject/3565976>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tool" .
+
+<subject/62568241>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "ASCII" .
+
+<subject/384857974>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "IPWV map generation" .
+
+<subject/915501581>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "highway" .
+
+<subject/1011310809>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "programming" .
+
+<subject/-880788200>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tavern" .
+
+<subject/-1103879957>
+        a               "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "ascii file" .
+
+<subject/-642611311>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "Ro folder" .
+
+<subject/107868>  a     "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "map" .
+
+<http://sandbox.rohub.org/rodl/ROs/IPWV01/>
+        dc:subject  <subject/155762055> , <subject/-1103879957> , <subject/3565976> , <subject/983004800> , <subject/-642611311> , <subject/-1377687758> , <subject/-880788200> , <subject/1087106672> , <subject/62568241> , <subject/-158747480> , <subject/3143036> , <subject/108704329> , <subject/1738700944> , <subject/1319330215> , <subject/104263205> , <subject/35379135> , <subject/1011310809> , <subject/384857974> , <subject/-1579103941> , <subject/915501581> , <subject/2170562> , <subject/-805513773> , <subject/107868> .
+
+<subject/1087106672>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "services folder" .
+
+ 
+2017-02-16 15:55:39,830 DEBUG jersey.logging.LoggingFeature [pool-2-thread-9] 1 * Client response received on thread pool-2-thread-9
+1 < 404
+1 < Connection: Keep-Alive
+1 < Content-Length: 967
+1 < Content-Type: text/html;charset=utf-8
+1 < Date: Thu, 16 Feb 2017 14:56:25 GMT
+1 < Keep-Alive: timeout=5, max=96
+1 < Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+<html><head><title>Apache Tomcat/7.0.42 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - Not Found</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>Not Found</u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.42</h3></body></html>
+ 
+2017-02-16 15:55:41,625 INFO enricher.response.ResponseQueueWorker [pool-2-thread-9] callback failed with 404 
+2017-02-16 15:55:47,130 INFO enricher.response.ResponseQueueWorker [pool-2-thread-9] message moved to the failed queue http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:57:41,676 INFO enricher.response.ResponseQueueWorker [main]  [+] Waiting for messages in RESPONSE queue. To exit press CTRL+C 
+2017-02-16 15:57:41,725 INFO enricher.response.ResponseQueueWorker [pool-2-thread-4]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:57:41,814 CONFIG jersey.internal.ServiceFinder [pool-2-thread-4] Running in a non-OSGi environment 
+2017-02-16 15:57:42,151 CONFIG process.internal.ExecutorProviders [pool-2-thread-4] Selected ExecutorServiceProvider implementation [org.glassfish.jersey.client.DefaultClientAsyncExecutorProvider] to be used for injection of executor qualified by [org.glassfish.jersey.client.ClientAsyncExecutor] annotation. 
+2017-02-16 15:57:42,155 CONFIG client.internal.HttpUrlConnector [pool-2-thread-4] Restricted headers are not enabled using [sun.net.http.allowRestrictedHeaders] system property (setting only takes effect on connections created after the property has been set/changed). 
+2017-02-16 15:57:42,190 DEBUG util.collection.DataStructures [pool-2-thread-4] USING LTQ class:class java.util.concurrent.LinkedTransferQueue 
+2017-02-16 15:57:42,242 DEBUG jersey.logging.LoggingFeature [pool-2-thread-4] 1 * Sending client request on thread pool-2-thread-4
+1 > POST http://beta.rohub.org/rodl-sandbox/service/callback?nonce=2a2cfbd5-b32a-453b-9762-cb6f103ee34f
+1 > Accept: text/plain
+1 > Authorization: Bearer ZW5yaWNobWVudDpIODZjMzV3eWdDRHZ1Zw==
+1 > Content-Type: text/plain
+@prefix cdesc: <https://w3id.org/contentdesc#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix dc:    <http://purl.org/dc/terms/> .
+
+<subject/155762055>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "telecommunications" .
+
+<subject/-805513773>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "Global Positioning System" .
+
+<subject/1319330215>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "software" .
+
+<subject/104263205>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "music" .
+
+<subject/1738700944>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "invocation" .
+
+<subject/35379135>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "workflow" .
+
+<subject/-158747480>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "astronautics" .
+
+<subject/983004800>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "zipped folder" .
+
+<subject/2170562>  a    "https://w3id.org/contentdesc#Place" ;
+        skos:prefLabel  "Etna" .
+
+<subject/-1377687758>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "button" .
+
+<subject/3143036>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "file" .
+
+<subject/-1579103941>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "satellite" .
+
+<subject/108704329>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "route" .
+
+<subject/3565976>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tool" .
+
+<subject/62568241>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "ASCII" .
+
+<subject/384857974>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "IPWV map generation" .
+
+<subject/915501581>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "highway" .
+
+<subject/1011310809>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "programming" .
+
+<subject/-880788200>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tavern" .
+
+<subject/-1103879957>
+        a               "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "ascii file" .
+
+<subject/-642611311>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "Ro folder" .
+
+<subject/107868>  a     "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "map" .
+
+<http://sandbox.rohub.org/rodl/ROs/IPWV01/>
+        dc:subject  <subject/155762055> , <subject/-1103879957> , <subject/3565976> , <subject/983004800> , <subject/-642611311> , <subject/-1377687758> , <subject/-880788200> , <subject/1087106672> , <subject/62568241> , <subject/-158747480> , <subject/3143036> , <subject/108704329> , <subject/1738700944> , <subject/1319330215> , <subject/104263205> , <subject/35379135> , <subject/1011310809> , <subject/384857974> , <subject/-1579103941> , <subject/915501581> , <subject/2170562> , <subject/-805513773> , <subject/107868> .
+
+<subject/1087106672>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "services folder" .
+
+ 
+2017-02-16 15:57:42,419 DEBUG jersey.logging.LoggingFeature [pool-2-thread-4] 1 * Client response received on thread pool-2-thread-4
+1 < 404
+1 < Connection: Keep-Alive
+1 < Content-Length: 967
+1 < Content-Type: text/html;charset=utf-8
+1 < Date: Thu, 16 Feb 2017 14:58:28 GMT
+1 < Keep-Alive: timeout=5, max=100
+1 < Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+<html><head><title>Apache Tomcat/7.0.42 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - Not Found</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>Not Found</u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.42</h3></body></html>
+ 
+2017-02-16 15:57:42,420 INFO enricher.response.ResponseQueueWorker [pool-2-thread-4] callback failed with 404 
+2017-02-16 15:57:42,420 INFO enricher.response.ResponseQueueWorker [pool-2-thread-4]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:57:42,435 DEBUG enricher.response.ResponseQueueWorker [pool-2-thread-4] [x] Response sent to queue for ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:57:42,451 INFO enricher.response.ResponseQueueWorker [pool-2-thread-5]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:57:42,488 CONFIG process.internal.ExecutorProviders [pool-2-thread-5] Selected ExecutorServiceProvider implementation [org.glassfish.jersey.client.DefaultClientAsyncExecutorProvider] to be used for injection of executor qualified by [org.glassfish.jersey.client.ClientAsyncExecutor] annotation. 
+2017-02-16 15:57:42,492 CONFIG client.internal.HttpUrlConnector [pool-2-thread-5] Restricted headers are not enabled using [sun.net.http.allowRestrictedHeaders] system property (setting only takes effect on connections created after the property has been set/changed). 
+2017-02-16 15:57:42,530 DEBUG jersey.logging.LoggingFeature [pool-2-thread-5] 1 * Sending client request on thread pool-2-thread-5
+1 > POST http://beta.rohub.org/rodl-sandbox/service/callback?nonce=2a2cfbd5-b32a-453b-9762-cb6f103ee34f
+1 > Accept: text/plain
+1 > Authorization: Bearer ZW5yaWNobWVudDpIODZjMzV3eWdDRHZ1Zw==
+1 > Content-Type: text/plain
+@prefix cdesc: <https://w3id.org/contentdesc#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix dc:    <http://purl.org/dc/terms/> .
+
+<subject/155762055>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "telecommunications" .
+
+<subject/-805513773>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "Global Positioning System" .
+
+<subject/1319330215>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "software" .
+
+<subject/104263205>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "music" .
+
+<subject/1738700944>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "invocation" .
+
+<subject/35379135>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "workflow" .
+
+<subject/-158747480>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "astronautics" .
+
+<subject/983004800>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "zipped folder" .
+
+<subject/2170562>  a    "https://w3id.org/contentdesc#Place" ;
+        skos:prefLabel  "Etna" .
+
+<subject/-1377687758>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "button" .
+
+<subject/3143036>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "file" .
+
+<subject/-1579103941>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "satellite" .
+
+<subject/108704329>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "route" .
+
+<subject/3565976>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tool" .
+
+<subject/62568241>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "ASCII" .
+
+<subject/384857974>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "IPWV map generation" .
+
+<subject/915501581>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "highway" .
+
+<subject/1011310809>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "programming" .
+
+<subject/-880788200>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tavern" .
+
+<subject/-1103879957>
+        a               "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "ascii file" .
+
+<subject/-642611311>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "Ro folder" .
+
+<subject/107868>  a     "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "map" .
+
+<http://sandbox.rohub.org/rodl/ROs/IPWV01/>
+        dc:subject  <subject/155762055> , <subject/-1103879957> , <subject/3565976> , <subject/983004800> , <subject/-642611311> , <subject/-1377687758> , <subject/-880788200> , <subject/1087106672> , <subject/62568241> , <subject/-158747480> , <subject/3143036> , <subject/108704329> , <subject/1738700944> , <subject/1319330215> , <subject/104263205> , <subject/35379135> , <subject/1011310809> , <subject/384857974> , <subject/-1579103941> , <subject/915501581> , <subject/2170562> , <subject/-805513773> , <subject/107868> .
+
+<subject/1087106672>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "services folder" .
+
+ 
+2017-02-16 15:57:42,646 DEBUG jersey.logging.LoggingFeature [pool-2-thread-5] 1 * Client response received on thread pool-2-thread-5
+1 < 404
+1 < Connection: Keep-Alive
+1 < Content-Length: 967
+1 < Content-Type: text/html;charset=utf-8
+1 < Date: Thu, 16 Feb 2017 14:58:28 GMT
+1 < Keep-Alive: timeout=5, max=99
+1 < Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+<html><head><title>Apache Tomcat/7.0.42 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - Not Found</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>Not Found</u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.42</h3></body></html>
+ 
+2017-02-16 15:57:42,646 INFO enricher.response.ResponseQueueWorker [pool-2-thread-5] callback failed with 404 
+2017-02-16 15:57:42,646 INFO enricher.response.ResponseQueueWorker [pool-2-thread-5]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:57:42,659 DEBUG enricher.response.ResponseQueueWorker [pool-2-thread-5] [x] Response sent to queue for ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:57:42,675 INFO enricher.response.ResponseQueueWorker [pool-2-thread-6]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:57:42,693 CONFIG process.internal.ExecutorProviders [pool-2-thread-6] Selected ExecutorServiceProvider implementation [org.glassfish.jersey.client.DefaultClientAsyncExecutorProvider] to be used for injection of executor qualified by [org.glassfish.jersey.client.ClientAsyncExecutor] annotation. 
+2017-02-16 15:57:42,694 CONFIG client.internal.HttpUrlConnector [pool-2-thread-6] Restricted headers are not enabled using [sun.net.http.allowRestrictedHeaders] system property (setting only takes effect on connections created after the property has been set/changed). 
+2017-02-16 15:57:42,707 DEBUG jersey.logging.LoggingFeature [pool-2-thread-6] 1 * Sending client request on thread pool-2-thread-6
+1 > POST http://beta.rohub.org/rodl-sandbox/service/callback?nonce=2a2cfbd5-b32a-453b-9762-cb6f103ee34f
+1 > Accept: text/plain
+1 > Authorization: Bearer ZW5yaWNobWVudDpIODZjMzV3eWdDRHZ1Zw==
+1 > Content-Type: text/plain
+@prefix cdesc: <https://w3id.org/contentdesc#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix dc:    <http://purl.org/dc/terms/> .
+
+<subject/155762055>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "telecommunications" .
+
+<subject/-805513773>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "Global Positioning System" .
+
+<subject/1319330215>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "software" .
+
+<subject/104263205>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "music" .
+
+<subject/1738700944>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "invocation" .
+
+<subject/35379135>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "workflow" .
+
+<subject/-158747480>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "astronautics" .
+
+<subject/983004800>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "zipped folder" .
+
+<subject/2170562>  a    "https://w3id.org/contentdesc#Place" ;
+        skos:prefLabel  "Etna" .
+
+<subject/-1377687758>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "button" .
+
+<subject/3143036>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "file" .
+
+<subject/-1579103941>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "satellite" .
+
+<subject/108704329>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "route" .
+
+<subject/3565976>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tool" .
+
+<subject/62568241>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "ASCII" .
+
+<subject/384857974>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "IPWV map generation" .
+
+<subject/915501581>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "highway" .
+
+<subject/1011310809>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "programming" .
+
+<subject/-880788200>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tavern" .
+
+<subject/-1103879957>
+        a               "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "ascii file" .
+
+<subject/-642611311>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "Ro folder" .
+
+<subject/107868>  a     "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "map" .
+
+<http://sandbox.rohub.org/rodl/ROs/IPWV01/>
+        dc:subject  <subject/155762055> , <subject/-1103879957> , <subject/3565976> , <subject/983004800> , <subject/-642611311> , <subject/-1377687758> , <subject/-880788200> , <subject/1087106672> , <subject/62568241> , <subject/-158747480> , <subject/3143036> , <subject/108704329> , <subject/1738700944> , <subject/1319330215> , <subject/104263205> , <subject/35379135> , <subject/1011310809> , <subject/384857974> , <subject/-1579103941> , <subject/915501581> , <subject/2170562> , <subject/-805513773> , <subject/107868> .
+
+<subject/1087106672>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "services folder" .
+
+ 
+2017-02-16 15:57:42,824 DEBUG jersey.logging.LoggingFeature [pool-2-thread-6] 1 * Client response received on thread pool-2-thread-6
+1 < 404
+1 < Connection: Keep-Alive
+1 < Content-Length: 967
+1 < Content-Type: text/html;charset=utf-8
+1 < Date: Thu, 16 Feb 2017 14:58:28 GMT
+1 < Keep-Alive: timeout=5, max=98
+1 < Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+<html><head><title>Apache Tomcat/7.0.42 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - Not Found</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>Not Found</u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.42</h3></body></html>
+ 
+2017-02-16 15:57:42,825 INFO enricher.response.ResponseQueueWorker [pool-2-thread-6] callback failed with 404 
+2017-02-16 15:57:42,825 INFO enricher.response.ResponseQueueWorker [pool-2-thread-6]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:57:42,837 DEBUG enricher.response.ResponseQueueWorker [pool-2-thread-6] [x] Response sent to queue for ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:57:42,853 INFO enricher.response.ResponseQueueWorker [pool-2-thread-7]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:57:42,863 CONFIG process.internal.ExecutorProviders [pool-2-thread-7] Selected ExecutorServiceProvider implementation [org.glassfish.jersey.client.DefaultClientAsyncExecutorProvider] to be used for injection of executor qualified by [org.glassfish.jersey.client.ClientAsyncExecutor] annotation. 
+2017-02-16 15:57:42,864 CONFIG client.internal.HttpUrlConnector [pool-2-thread-7] Restricted headers are not enabled using [sun.net.http.allowRestrictedHeaders] system property (setting only takes effect on connections created after the property has been set/changed). 
+2017-02-16 15:57:42,873 DEBUG jersey.logging.LoggingFeature [pool-2-thread-7] 1 * Sending client request on thread pool-2-thread-7
+1 > POST http://beta.rohub.org/rodl-sandbox/service/callback?nonce=2a2cfbd5-b32a-453b-9762-cb6f103ee34f
+1 > Accept: text/plain
+1 > Authorization: Bearer ZW5yaWNobWVudDpIODZjMzV3eWdDRHZ1Zw==
+1 > Content-Type: text/plain
+@prefix cdesc: <https://w3id.org/contentdesc#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix dc:    <http://purl.org/dc/terms/> .
+
+<subject/155762055>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "telecommunications" .
+
+<subject/-805513773>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "Global Positioning System" .
+
+<subject/1319330215>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "software" .
+
+<subject/104263205>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "music" .
+
+<subject/1738700944>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "invocation" .
+
+<subject/35379135>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "workflow" .
+
+<subject/-158747480>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "astronautics" .
+
+<subject/983004800>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "zipped folder" .
+
+<subject/2170562>  a    "https://w3id.org/contentdesc#Place" ;
+        skos:prefLabel  "Etna" .
+
+<subject/-1377687758>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "button" .
+
+<subject/3143036>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "file" .
+
+<subject/-1579103941>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "satellite" .
+
+<subject/108704329>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "route" .
+
+<subject/3565976>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tool" .
+
+<subject/62568241>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "ASCII" .
+
+<subject/384857974>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "IPWV map generation" .
+
+<subject/915501581>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "highway" .
+
+<subject/1011310809>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "programming" .
+
+<subject/-880788200>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tavern" .
+
+<subject/-1103879957>
+        a               "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "ascii file" .
+
+<subject/-642611311>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "Ro folder" .
+
+<subject/107868>  a     "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "map" .
+
+<http://sandbox.rohub.org/rodl/ROs/IPWV01/>
+        dc:subject  <subject/155762055> , <subject/-1103879957> , <subject/3565976> , <subject/983004800> , <subject/-642611311> , <subject/-1377687758> , <subject/-880788200> , <subject/1087106672> , <subject/62568241> , <subject/-158747480> , <subject/3143036> , <subject/108704329> , <subject/1738700944> , <subject/1319330215> , <subject/104263205> , <subject/35379135> , <subject/1011310809> , <subject/384857974> , <subject/-1579103941> , <subject/915501581> , <subject/2170562> , <subject/-805513773> , <subject/107868> .
+
+<subject/1087106672>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "services folder" .
+
+ 
+2017-02-16 15:57:42,996 DEBUG jersey.logging.LoggingFeature [pool-2-thread-7] 1 * Client response received on thread pool-2-thread-7
+1 < 404
+1 < Connection: Keep-Alive
+1 < Content-Length: 967
+1 < Content-Type: text/html;charset=utf-8
+1 < Date: Thu, 16 Feb 2017 14:58:28 GMT
+1 < Keep-Alive: timeout=5, max=97
+1 < Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+<html><head><title>Apache Tomcat/7.0.42 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - Not Found</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>Not Found</u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.42</h3></body></html>
+ 
+2017-02-16 15:57:42,996 INFO enricher.response.ResponseQueueWorker [pool-2-thread-7] callback failed with 404 
+2017-02-16 15:57:42,996 INFO enricher.response.ResponseQueueWorker [pool-2-thread-7]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:57:43,009 DEBUG enricher.response.ResponseQueueWorker [pool-2-thread-7] [x] Response sent to queue for ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:57:43,025 INFO enricher.response.ResponseQueueWorker [pool-2-thread-8]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:57:43,073 CONFIG process.internal.ExecutorProviders [pool-2-thread-8] Selected ExecutorServiceProvider implementation [org.glassfish.jersey.client.DefaultClientAsyncExecutorProvider] to be used for injection of executor qualified by [org.glassfish.jersey.client.ClientAsyncExecutor] annotation. 
+2017-02-16 15:57:43,076 CONFIG client.internal.HttpUrlConnector [pool-2-thread-8] Restricted headers are not enabled using [sun.net.http.allowRestrictedHeaders] system property (setting only takes effect on connections created after the property has been set/changed). 
+2017-02-16 15:57:43,088 DEBUG jersey.logging.LoggingFeature [pool-2-thread-8] 1 * Sending client request on thread pool-2-thread-8
+1 > POST http://beta.rohub.org/rodl-sandbox/service/callback?nonce=2a2cfbd5-b32a-453b-9762-cb6f103ee34f
+1 > Accept: text/plain
+1 > Authorization: Bearer ZW5yaWNobWVudDpIODZjMzV3eWdDRHZ1Zw==
+1 > Content-Type: text/plain
+@prefix cdesc: <https://w3id.org/contentdesc#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix dc:    <http://purl.org/dc/terms/> .
+
+<subject/155762055>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "telecommunications" .
+
+<subject/-805513773>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "Global Positioning System" .
+
+<subject/1319330215>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "software" .
+
+<subject/104263205>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "music" .
+
+<subject/1738700944>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "invocation" .
+
+<subject/35379135>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "workflow" .
+
+<subject/-158747480>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "astronautics" .
+
+<subject/983004800>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "zipped folder" .
+
+<subject/2170562>  a    "https://w3id.org/contentdesc#Place" ;
+        skos:prefLabel  "Etna" .
+
+<subject/-1377687758>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "button" .
+
+<subject/3143036>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "file" .
+
+<subject/-1579103941>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "satellite" .
+
+<subject/108704329>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "route" .
+
+<subject/3565976>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tool" .
+
+<subject/62568241>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "ASCII" .
+
+<subject/384857974>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "IPWV map generation" .
+
+<subject/915501581>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "highway" .
+
+<subject/1011310809>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "programming" .
+
+<subject/-880788200>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tavern" .
+
+<subject/-1103879957>
+        a               "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "ascii file" .
+
+<subject/-642611311>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "Ro folder" .
+
+<subject/107868>  a     "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "map" .
+
+<http://sandbox.rohub.org/rodl/ROs/IPWV01/>
+        dc:subject  <subject/155762055> , <subject/-1103879957> , <subject/3565976> , <subject/983004800> , <subject/-642611311> , <subject/-1377687758> , <subject/-880788200> , <subject/1087106672> , <subject/62568241> , <subject/-158747480> , <subject/3143036> , <subject/108704329> , <subject/1738700944> , <subject/1319330215> , <subject/104263205> , <subject/35379135> , <subject/1011310809> , <subject/384857974> , <subject/-1579103941> , <subject/915501581> , <subject/2170562> , <subject/-805513773> , <subject/107868> .
+
+<subject/1087106672>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "services folder" .
+
+ 
+2017-02-16 15:57:43,203 DEBUG jersey.logging.LoggingFeature [pool-2-thread-8] 1 * Client response received on thread pool-2-thread-8
+1 < 404
+1 < Connection: Keep-Alive
+1 < Content-Length: 967
+1 < Content-Type: text/html;charset=utf-8
+1 < Date: Thu, 16 Feb 2017 14:58:28 GMT
+1 < Keep-Alive: timeout=5, max=96
+1 < Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+<html><head><title>Apache Tomcat/7.0.42 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - Not Found</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>Not Found</u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.42</h3></body></html>
+ 
+2017-02-16 15:57:43,203 INFO enricher.response.ResponseQueueWorker [pool-2-thread-8] callback failed with 404 
+2017-02-16 15:57:43,203 INFO enricher.response.ResponseQueueWorker [pool-2-thread-8]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:57:43,216 DEBUG enricher.response.ResponseQueueWorker [pool-2-thread-8] [x] Response sent to queue for ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:57:43,231 INFO enricher.response.ResponseQueueWorker [pool-2-thread-9]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 15:57:43,240 CONFIG process.internal.ExecutorProviders [pool-2-thread-9] Selected ExecutorServiceProvider implementation [org.glassfish.jersey.client.DefaultClientAsyncExecutorProvider] to be used for injection of executor qualified by [org.glassfish.jersey.client.ClientAsyncExecutor] annotation. 
+2017-02-16 15:57:43,241 CONFIG client.internal.HttpUrlConnector [pool-2-thread-9] Restricted headers are not enabled using [sun.net.http.allowRestrictedHeaders] system property (setting only takes effect on connections created after the property has been set/changed). 
+2017-02-16 15:57:43,250 DEBUG jersey.logging.LoggingFeature [pool-2-thread-9] 1 * Sending client request on thread pool-2-thread-9
+1 > POST http://beta.rohub.org/rodl-sandbox/service/callback?nonce=2a2cfbd5-b32a-453b-9762-cb6f103ee34f
+1 > Accept: text/plain
+1 > Authorization: Bearer ZW5yaWNobWVudDpIODZjMzV3eWdDRHZ1Zw==
+1 > Content-Type: text/plain
+@prefix cdesc: <https://w3id.org/contentdesc#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix dc:    <http://purl.org/dc/terms/> .
+
+<subject/155762055>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "telecommunications" .
+
+<subject/-805513773>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "Global Positioning System" .
+
+<subject/1319330215>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "software" .
+
+<subject/104263205>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "music" .
+
+<subject/1738700944>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "invocation" .
+
+<subject/35379135>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "workflow" .
+
+<subject/-158747480>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "astronautics" .
+
+<subject/983004800>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "zipped folder" .
+
+<subject/2170562>  a    "https://w3id.org/contentdesc#Place" ;
+        skos:prefLabel  "Etna" .
+
+<subject/-1377687758>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "button" .
+
+<subject/3143036>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "file" .
+
+<subject/-1579103941>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "satellite" .
+
+<subject/108704329>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "route" .
+
+<subject/3565976>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tool" .
+
+<subject/62568241>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "ASCII" .
+
+<subject/384857974>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "IPWV map generation" .
+
+<subject/915501581>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "highway" .
+
+<subject/1011310809>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "programming" .
+
+<subject/-880788200>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tavern" .
+
+<subject/-1103879957>
+        a               "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "ascii file" .
+
+<subject/-642611311>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "Ro folder" .
+
+<subject/107868>  a     "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "map" .
+
+<http://sandbox.rohub.org/rodl/ROs/IPWV01/>
+        dc:subject  <subject/155762055> , <subject/-1103879957> , <subject/3565976> , <subject/983004800> , <subject/-642611311> , <subject/-1377687758> , <subject/-880788200> , <subject/1087106672> , <subject/62568241> , <subject/-158747480> , <subject/3143036> , <subject/108704329> , <subject/1738700944> , <subject/1319330215> , <subject/104263205> , <subject/35379135> , <subject/1011310809> , <subject/384857974> , <subject/-1579103941> , <subject/915501581> , <subject/2170562> , <subject/-805513773> , <subject/107868> .
+
+<subject/1087106672>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "services folder" .
+
+ 
+2017-02-16 15:57:43,396 DEBUG jersey.logging.LoggingFeature [pool-2-thread-9] 1 * Client response received on thread pool-2-thread-9
+1 < 404
+1 < Connection: Keep-Alive
+1 < Content-Length: 967
+1 < Content-Type: text/html;charset=utf-8
+1 < Date: Thu, 16 Feb 2017 14:58:29 GMT
+1 < Keep-Alive: timeout=5, max=95
+1 < Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+<html><head><title>Apache Tomcat/7.0.42 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - Not Found</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>Not Found</u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.42</h3></body></html>
+ 
+2017-02-16 15:57:43,397 INFO enricher.response.ResponseQueueWorker [pool-2-thread-9] callback failed with 404 
+2017-02-16 15:57:43,397 INFO enricher.response.ResponseQueueWorker [pool-2-thread-9] message moved to the failed queue http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 16:38:58,557 INFO enricher.response.ResponseQueueWorker [pool-2-thread-14]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 16:38:58,572 CONFIG process.internal.ExecutorProviders [pool-2-thread-14] Selected ExecutorServiceProvider implementation [org.glassfish.jersey.client.DefaultClientAsyncExecutorProvider] to be used for injection of executor qualified by [org.glassfish.jersey.client.ClientAsyncExecutor] annotation. 
+2017-02-16 16:38:58,572 CONFIG client.internal.HttpUrlConnector [pool-2-thread-14] Restricted headers are not enabled using [sun.net.http.allowRestrictedHeaders] system property (setting only takes effect on connections created after the property has been set/changed). 
+2017-02-16 16:38:58,673 DEBUG jersey.logging.LoggingFeature [pool-2-thread-14] 1 * Sending client request on thread pool-2-thread-14
+1 > POST http://mylocation.org/pleasecallmeback/number/?nonce=ASDA9781344KAJSD
+1 > Accept: text/plain
+1 > Authorization: Bearer ZW5yaWNobWVudDpIODZjMzV3eWdDRHZ1Zw==
+1 > Content-Type: text/plain
+@prefix cdesc: <https://w3id.org/contentdesc#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix dc:    <http://purl.org/dc/terms/> .
+
+<subject/155762055>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "telecommunications" .
+
+<subject/-805513773>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "Global Positioning System" .
+
+<subject/1319330215>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "software" .
+
+<subject/104263205>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "music" .
+
+<subject/1738700944>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "invocation" .
+
+<subject/35379135>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "workflow" .
+
+<subject/-158747480>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "astronautics" .
+
+<subject/983004800>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "zipped folder" .
+
+<subject/2170562>  a    "https://w3id.org/contentdesc#Place" ;
+        skos:prefLabel  "Etna" .
+
+<subject/-1377687758>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "button" .
+
+<subject/3143036>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "file" .
+
+<subject/-1579103941>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "satellite" .
+
+<subject/108704329>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "route" .
+
+<subject/3565976>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tool" .
+
+<subject/62568241>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "ASCII" .
+
+<subject/384857974>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "IPWV map generation" .
+
+<subject/915501581>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "highway" .
+
+<subject/1011310809>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "programming" .
+
+<subject/-880788200>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tavern" .
+
+<subject/-1103879957>
+        a               "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "ascii file" .
+
+<subject/-642611311>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "Ro folder" .
+
+<subject/107868>  a     "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "map" .
+
+<http://sandbox.rohub.org/rodl/ROs/IPWV01/>
+        dc:subject  <subject/155762055> , <subject/-1103879957> , <subject/3565976> , <subject/983004800> , <subject/-642611311> , <subject/-1377687758> , <subject/-880788200> , <subject/1087106672> , <subject/62568241> , <subject/-158747480> , <subject/3143036> , <subject/108704329> , <subject/1738700944> , <subject/1319330215> , <subject/104263205> , <subject/35379135> , <subject/1011310809> , <subject/384857974> , <subject/-1579103941> , <subject/915501581> , <subject/2170562> , <subject/-805513773> , <subject/107868> .
+
+<subject/1087106672>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "services folder" .
+
+ 
+2017-02-16 16:38:58,790 DEBUG jersey.logging.LoggingFeature [pool-2-thread-14] 1 * Client response received on thread pool-2-thread-14
+1 < 301
+1 < Connection: keep-alive
+1 < Content-Length: 193
+1 < Content-Type: text/html
+1 < Date: Thu, 16 Feb 2017 15:39:44 GMT
+1 < Location: https://mylocation.org/pleasecallmeback/number/?nonce=ASDA9781344KAJSD
+1 < Server: nginx/1.4.6 (Ubuntu)
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.4.6 (Ubuntu)</center>
+</body>
+</html>
+
+ 
+2017-02-16 16:38:58,790 INFO enricher.response.ResponseQueueWorker [pool-2-thread-14] callback failed with 301 
+2017-02-16 16:38:58,790 INFO enricher.response.ResponseQueueWorker [pool-2-thread-14]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 16:38:58,804 DEBUG enricher.response.ResponseQueueWorker [pool-2-thread-14] [x] Response sent to queue for ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 16:38:58,825 INFO enricher.response.ResponseQueueWorker [pool-2-thread-3]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 16:38:58,841 CONFIG process.internal.ExecutorProviders [pool-2-thread-3] Selected ExecutorServiceProvider implementation [org.glassfish.jersey.client.DefaultClientAsyncExecutorProvider] to be used for injection of executor qualified by [org.glassfish.jersey.client.ClientAsyncExecutor] annotation. 
+2017-02-16 16:38:58,843 CONFIG client.internal.HttpUrlConnector [pool-2-thread-3] Restricted headers are not enabled using [sun.net.http.allowRestrictedHeaders] system property (setting only takes effect on connections created after the property has been set/changed). 
+2017-02-16 16:38:58,860 DEBUG jersey.logging.LoggingFeature [pool-2-thread-3] 1 * Sending client request on thread pool-2-thread-3
+1 > POST http://mylocation.org/pleasecallmeback/number/?nonce=ASDA9781344KAJSD
+1 > Accept: text/plain
+1 > Authorization: Bearer ZW5yaWNobWVudDpIODZjMzV3eWdDRHZ1Zw==
+1 > Content-Type: text/plain
+@prefix cdesc: <https://w3id.org/contentdesc#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix dc:    <http://purl.org/dc/terms/> .
+
+<subject/155762055>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "telecommunications" .
+
+<subject/-805513773>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "Global Positioning System" .
+
+<subject/1319330215>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "software" .
+
+<subject/104263205>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "music" .
+
+<subject/1738700944>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "invocation" .
+
+<subject/35379135>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "workflow" .
+
+<subject/-158747480>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "astronautics" .
+
+<subject/983004800>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "zipped folder" .
+
+<subject/2170562>  a    "https://w3id.org/contentdesc#Place" ;
+        skos:prefLabel  "Etna" .
+
+<subject/-1377687758>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "button" .
+
+<subject/3143036>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "file" .
+
+<subject/-1579103941>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "satellite" .
+
+<subject/108704329>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "route" .
+
+<subject/3565976>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tool" .
+
+<subject/62568241>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "ASCII" .
+
+<subject/384857974>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "IPWV map generation" .
+
+<subject/915501581>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "highway" .
+
+<subject/1011310809>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "programming" .
+
+<subject/-880788200>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tavern" .
+
+<subject/-1103879957>
+        a               "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "ascii file" .
+
+<subject/-642611311>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "Ro folder" .
+
+<subject/107868>  a     "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "map" .
+
+<http://sandbox.rohub.org/rodl/ROs/IPWV01/>
+        dc:subject  <subject/155762055> , <subject/-1103879957> , <subject/3565976> , <subject/983004800> , <subject/-642611311> , <subject/-1377687758> , <subject/-880788200> , <subject/1087106672> , <subject/62568241> , <subject/-158747480> , <subject/3143036> , <subject/108704329> , <subject/1738700944> , <subject/1319330215> , <subject/104263205> , <subject/35379135> , <subject/1011310809> , <subject/384857974> , <subject/-1579103941> , <subject/915501581> , <subject/2170562> , <subject/-805513773> , <subject/107868> .
+
+<subject/1087106672>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "services folder" .
+
+ 
+2017-02-16 16:38:58,913 DEBUG jersey.logging.LoggingFeature [pool-2-thread-3] 1 * Client response received on thread pool-2-thread-3
+1 < 301
+1 < Connection: keep-alive
+1 < Content-Length: 193
+1 < Content-Type: text/html
+1 < Date: Thu, 16 Feb 2017 15:39:44 GMT
+1 < Location: https://mylocation.org/pleasecallmeback/number/?nonce=ASDA9781344KAJSD
+1 < Server: nginx/1.4.6 (Ubuntu)
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.4.6 (Ubuntu)</center>
+</body>
+</html>
+
+ 
+2017-02-16 16:38:58,914 INFO enricher.response.ResponseQueueWorker [pool-2-thread-3] callback failed with 301 
+2017-02-16 16:38:58,914 INFO enricher.response.ResponseQueueWorker [pool-2-thread-3]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 16:38:58,928 DEBUG enricher.response.ResponseQueueWorker [pool-2-thread-3] [x] Response sent to queue for ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 16:38:58,945 INFO enricher.response.ResponseQueueWorker [pool-2-thread-4]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 16:38:58,954 CONFIG process.internal.ExecutorProviders [pool-2-thread-4] Selected ExecutorServiceProvider implementation [org.glassfish.jersey.client.DefaultClientAsyncExecutorProvider] to be used for injection of executor qualified by [org.glassfish.jersey.client.ClientAsyncExecutor] annotation. 
+2017-02-16 16:38:58,955 CONFIG client.internal.HttpUrlConnector [pool-2-thread-4] Restricted headers are not enabled using [sun.net.http.allowRestrictedHeaders] system property (setting only takes effect on connections created after the property has been set/changed). 
+2017-02-16 16:38:58,963 DEBUG jersey.logging.LoggingFeature [pool-2-thread-4] 1 * Sending client request on thread pool-2-thread-4
+1 > POST http://mylocation.org/pleasecallmeback/number/?nonce=ASDA9781344KAJSD
+1 > Accept: text/plain
+1 > Authorization: Bearer ZW5yaWNobWVudDpIODZjMzV3eWdDRHZ1Zw==
+1 > Content-Type: text/plain
+@prefix cdesc: <https://w3id.org/contentdesc#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix dc:    <http://purl.org/dc/terms/> .
+
+<subject/155762055>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "telecommunications" .
+
+<subject/-805513773>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "Global Positioning System" .
+
+<subject/1319330215>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "software" .
+
+<subject/104263205>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "music" .
+
+<subject/1738700944>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "invocation" .
+
+<subject/35379135>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "workflow" .
+
+<subject/-158747480>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "astronautics" .
+
+<subject/983004800>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "zipped folder" .
+
+<subject/2170562>  a    "https://w3id.org/contentdesc#Place" ;
+        skos:prefLabel  "Etna" .
+
+<subject/-1377687758>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "button" .
+
+<subject/3143036>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "file" .
+
+<subject/-1579103941>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "satellite" .
+
+<subject/108704329>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "route" .
+
+<subject/3565976>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tool" .
+
+<subject/62568241>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "ASCII" .
+
+<subject/384857974>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "IPWV map generation" .
+
+<subject/915501581>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "highway" .
+
+<subject/1011310809>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "programming" .
+
+<subject/-880788200>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tavern" .
+
+<subject/-1103879957>
+        a               "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "ascii file" .
+
+<subject/-642611311>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "Ro folder" .
+
+<subject/107868>  a     "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "map" .
+
+<http://sandbox.rohub.org/rodl/ROs/IPWV01/>
+        dc:subject  <subject/155762055> , <subject/-1103879957> , <subject/3565976> , <subject/983004800> , <subject/-642611311> , <subject/-1377687758> , <subject/-880788200> , <subject/1087106672> , <subject/62568241> , <subject/-158747480> , <subject/3143036> , <subject/108704329> , <subject/1738700944> , <subject/1319330215> , <subject/104263205> , <subject/35379135> , <subject/1011310809> , <subject/384857974> , <subject/-1579103941> , <subject/915501581> , <subject/2170562> , <subject/-805513773> , <subject/107868> .
+
+<subject/1087106672>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "services folder" .
+
+ 
+2017-02-16 16:38:59,004 DEBUG jersey.logging.LoggingFeature [pool-2-thread-4] 1 * Client response received on thread pool-2-thread-4
+1 < 301
+1 < Connection: keep-alive
+1 < Content-Length: 193
+1 < Content-Type: text/html
+1 < Date: Thu, 16 Feb 2017 15:39:44 GMT
+1 < Location: https://mylocation.org/pleasecallmeback/number/?nonce=ASDA9781344KAJSD
+1 < Server: nginx/1.4.6 (Ubuntu)
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.4.6 (Ubuntu)</center>
+</body>
+</html>
+
+ 
+2017-02-16 16:38:59,004 INFO enricher.response.ResponseQueueWorker [pool-2-thread-4] callback failed with 301 
+2017-02-16 16:38:59,004 INFO enricher.response.ResponseQueueWorker [pool-2-thread-4]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 16:38:59,018 DEBUG enricher.response.ResponseQueueWorker [pool-2-thread-4] [x] Response sent to queue for ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 16:38:59,034 INFO enricher.response.ResponseQueueWorker [pool-2-thread-5]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 16:38:59,049 CONFIG process.internal.ExecutorProviders [pool-2-thread-5] Selected ExecutorServiceProvider implementation [org.glassfish.jersey.client.DefaultClientAsyncExecutorProvider] to be used for injection of executor qualified by [org.glassfish.jersey.client.ClientAsyncExecutor] annotation. 
+2017-02-16 16:38:59,050 CONFIG client.internal.HttpUrlConnector [pool-2-thread-5] Restricted headers are not enabled using [sun.net.http.allowRestrictedHeaders] system property (setting only takes effect on connections created after the property has been set/changed). 
+2017-02-16 16:38:59,058 DEBUG jersey.logging.LoggingFeature [pool-2-thread-5] 1 * Sending client request on thread pool-2-thread-5
+1 > POST http://mylocation.org/pleasecallmeback/number/?nonce=ASDA9781344KAJSD
+1 > Accept: text/plain
+1 > Authorization: Bearer ZW5yaWNobWVudDpIODZjMzV3eWdDRHZ1Zw==
+1 > Content-Type: text/plain
+@prefix cdesc: <https://w3id.org/contentdesc#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix dc:    <http://purl.org/dc/terms/> .
+
+<subject/155762055>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "telecommunications" .
+
+<subject/-805513773>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "Global Positioning System" .
+
+<subject/1319330215>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "software" .
+
+<subject/104263205>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "music" .
+
+<subject/1738700944>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "invocation" .
+
+<subject/35379135>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "workflow" .
+
+<subject/-158747480>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "astronautics" .
+
+<subject/983004800>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "zipped folder" .
+
+<subject/2170562>  a    "https://w3id.org/contentdesc#Place" ;
+        skos:prefLabel  "Etna" .
+
+<subject/-1377687758>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "button" .
+
+<subject/3143036>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "file" .
+
+<subject/-1579103941>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "satellite" .
+
+<subject/108704329>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "route" .
+
+<subject/3565976>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tool" .
+
+<subject/62568241>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "ASCII" .
+
+<subject/384857974>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "IPWV map generation" .
+
+<subject/915501581>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "highway" .
+
+<subject/1011310809>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "programming" .
+
+<subject/-880788200>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tavern" .
+
+<subject/-1103879957>
+        a               "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "ascii file" .
+
+<subject/-642611311>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "Ro folder" .
+
+<subject/107868>  a     "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "map" .
+
+<http://sandbox.rohub.org/rodl/ROs/IPWV01/>
+        dc:subject  <subject/155762055> , <subject/-1103879957> , <subject/3565976> , <subject/983004800> , <subject/-642611311> , <subject/-1377687758> , <subject/-880788200> , <subject/1087106672> , <subject/62568241> , <subject/-158747480> , <subject/3143036> , <subject/108704329> , <subject/1738700944> , <subject/1319330215> , <subject/104263205> , <subject/35379135> , <subject/1011310809> , <subject/384857974> , <subject/-1579103941> , <subject/915501581> , <subject/2170562> , <subject/-805513773> , <subject/107868> .
+
+<subject/1087106672>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "services folder" .
+
+ 
+2017-02-16 16:38:59,097 DEBUG jersey.logging.LoggingFeature [pool-2-thread-5] 1 * Client response received on thread pool-2-thread-5
+1 < 301
+1 < Connection: keep-alive
+1 < Content-Length: 193
+1 < Content-Type: text/html
+1 < Date: Thu, 16 Feb 2017 15:39:44 GMT
+1 < Location: https://mylocation.org/pleasecallmeback/number/?nonce=ASDA9781344KAJSD
+1 < Server: nginx/1.4.6 (Ubuntu)
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.4.6 (Ubuntu)</center>
+</body>
+</html>
+
+ 
+2017-02-16 16:38:59,097 INFO enricher.response.ResponseQueueWorker [pool-2-thread-5] callback failed with 301 
+2017-02-16 16:38:59,097 INFO enricher.response.ResponseQueueWorker [pool-2-thread-5]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 16:38:59,111 DEBUG enricher.response.ResponseQueueWorker [pool-2-thread-5] [x] Response sent to queue for ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 16:38:59,128 INFO enricher.response.ResponseQueueWorker [pool-2-thread-6]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 16:38:59,147 CONFIG process.internal.ExecutorProviders [pool-2-thread-6] Selected ExecutorServiceProvider implementation [org.glassfish.jersey.client.DefaultClientAsyncExecutorProvider] to be used for injection of executor qualified by [org.glassfish.jersey.client.ClientAsyncExecutor] annotation. 
+2017-02-16 16:38:59,149 CONFIG client.internal.HttpUrlConnector [pool-2-thread-6] Restricted headers are not enabled using [sun.net.http.allowRestrictedHeaders] system property (setting only takes effect on connections created after the property has been set/changed). 
+2017-02-16 16:38:59,162 DEBUG jersey.logging.LoggingFeature [pool-2-thread-6] 1 * Sending client request on thread pool-2-thread-6
+1 > POST http://mylocation.org/pleasecallmeback/number/?nonce=ASDA9781344KAJSD
+1 > Accept: text/plain
+1 > Authorization: Bearer ZW5yaWNobWVudDpIODZjMzV3eWdDRHZ1Zw==
+1 > Content-Type: text/plain
+@prefix cdesc: <https://w3id.org/contentdesc#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix dc:    <http://purl.org/dc/terms/> .
+
+<subject/155762055>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "telecommunications" .
+
+<subject/-805513773>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "Global Positioning System" .
+
+<subject/1319330215>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "software" .
+
+<subject/104263205>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "music" .
+
+<subject/1738700944>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "invocation" .
+
+<subject/35379135>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "workflow" .
+
+<subject/-158747480>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "astronautics" .
+
+<subject/983004800>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "zipped folder" .
+
+<subject/2170562>  a    "https://w3id.org/contentdesc#Place" ;
+        skos:prefLabel  "Etna" .
+
+<subject/-1377687758>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "button" .
+
+<subject/3143036>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "file" .
+
+<subject/-1579103941>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "satellite" .
+
+<subject/108704329>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "route" .
+
+<subject/3565976>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tool" .
+
+<subject/62568241>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "ASCII" .
+
+<subject/384857974>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "IPWV map generation" .
+
+<subject/915501581>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "highway" .
+
+<subject/1011310809>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "programming" .
+
+<subject/-880788200>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tavern" .
+
+<subject/-1103879957>
+        a               "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "ascii file" .
+
+<subject/-642611311>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "Ro folder" .
+
+<subject/107868>  a     "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "map" .
+
+<http://sandbox.rohub.org/rodl/ROs/IPWV01/>
+        dc:subject  <subject/155762055> , <subject/-1103879957> , <subject/3565976> , <subject/983004800> , <subject/-642611311> , <subject/-1377687758> , <subject/-880788200> , <subject/1087106672> , <subject/62568241> , <subject/-158747480> , <subject/3143036> , <subject/108704329> , <subject/1738700944> , <subject/1319330215> , <subject/104263205> , <subject/35379135> , <subject/1011310809> , <subject/384857974> , <subject/-1579103941> , <subject/915501581> , <subject/2170562> , <subject/-805513773> , <subject/107868> .
+
+<subject/1087106672>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "services folder" .
+
+ 
+2017-02-16 16:38:59,204 DEBUG jersey.logging.LoggingFeature [pool-2-thread-6] 1 * Client response received on thread pool-2-thread-6
+1 < 301
+1 < Connection: keep-alive
+1 < Content-Length: 193
+1 < Content-Type: text/html
+1 < Date: Thu, 16 Feb 2017 15:39:45 GMT
+1 < Location: https://mylocation.org/pleasecallmeback/number/?nonce=ASDA9781344KAJSD
+1 < Server: nginx/1.4.6 (Ubuntu)
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.4.6 (Ubuntu)</center>
+</body>
+</html>
+
+ 
+2017-02-16 16:38:59,204 INFO enricher.response.ResponseQueueWorker [pool-2-thread-6] callback failed with 301 
+2017-02-16 16:38:59,204 INFO enricher.response.ResponseQueueWorker [pool-2-thread-6]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 16:38:59,217 DEBUG enricher.response.ResponseQueueWorker [pool-2-thread-6] [x] Response sent to queue for ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 16:38:59,234 INFO enricher.response.ResponseQueueWorker [pool-2-thread-7]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-02-16 16:38:59,249 CONFIG process.internal.ExecutorProviders [pool-2-thread-7] Selected ExecutorServiceProvider implementation [org.glassfish.jersey.client.DefaultClientAsyncExecutorProvider] to be used for injection of executor qualified by [org.glassfish.jersey.client.ClientAsyncExecutor] annotation. 
+2017-02-16 16:38:59,251 CONFIG client.internal.HttpUrlConnector [pool-2-thread-7] Restricted headers are not enabled using [sun.net.http.allowRestrictedHeaders] system property (setting only takes effect on connections created after the property has been set/changed). 
+2017-02-16 16:38:59,258 DEBUG jersey.logging.LoggingFeature [pool-2-thread-7] 1 * Sending client request on thread pool-2-thread-7
+1 > POST http://mylocation.org/pleasecallmeback/number/?nonce=ASDA9781344KAJSD
+1 > Accept: text/plain
+1 > Authorization: Bearer ZW5yaWNobWVudDpIODZjMzV3eWdDRHZ1Zw==
+1 > Content-Type: text/plain
+@prefix cdesc: <https://w3id.org/contentdesc#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix dc:    <http://purl.org/dc/terms/> .
+
+<subject/155762055>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "telecommunications" .
+
+<subject/-805513773>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "Global Positioning System" .
+
+<subject/1319330215>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "software" .
+
+<subject/104263205>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "music" .
+
+<subject/1738700944>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "invocation" .
+
+<subject/35379135>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "workflow" .
+
+<subject/-158747480>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "astronautics" .
+
+<subject/983004800>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "zipped folder" .
+
+<subject/2170562>  a    "https://w3id.org/contentdesc#Place" ;
+        skos:prefLabel  "Etna" .
+
+<subject/-1377687758>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "button" .
+
+<subject/3143036>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "file" .
+
+<subject/-1579103941>
+        a               "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "satellite" .
+
+<subject/108704329>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "route" .
+
+<subject/3565976>  a    "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tool" .
+
+<subject/62568241>  a   "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "ASCII" .
+
+<subject/384857974>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "IPWV map generation" .
+
+<subject/915501581>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "highway" .
+
+<subject/1011310809>  a  "https://w3id.org/contentdesc#Domain" ;
+        skos:prefLabel  "programming" .
+
+<subject/-880788200>  a  "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "tavern" .
+
+<subject/-1103879957>
+        a               "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "ascii file" .
+
+<subject/-642611311>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "Ro folder" .
+
+<subject/107868>  a     "https://w3id.org/contentdesc#Concept" ;
+        skos:prefLabel  "map" .
+
+<http://sandbox.rohub.org/rodl/ROs/IPWV01/>
+        dc:subject  <subject/155762055> , <subject/-1103879957> , <subject/3565976> , <subject/983004800> , <subject/-642611311> , <subject/-1377687758> , <subject/-880788200> , <subject/1087106672> , <subject/62568241> , <subject/-158747480> , <subject/3143036> , <subject/108704329> , <subject/1738700944> , <subject/1319330215> , <subject/104263205> , <subject/35379135> , <subject/1011310809> , <subject/384857974> , <subject/-1579103941> , <subject/915501581> , <subject/2170562> , <subject/-805513773> , <subject/107868> .
+
+<subject/1087106672>  a  "https://w3id.org/contentdesc#Expression" ;
+        skos:prefLabel  "services folder" .
+
+ 
+2017-02-16 16:38:59,300 DEBUG jersey.logging.LoggingFeature [pool-2-thread-7] 1 * Client response received on thread pool-2-thread-7
+1 < 301
+1 < Connection: keep-alive
+1 < Content-Length: 193
+1 < Content-Type: text/html
+1 < Date: Thu, 16 Feb 2017 15:39:45 GMT
+1 < Location: https://mylocation.org/pleasecallmeback/number/?nonce=ASDA9781344KAJSD
+1 < Server: nginx/1.4.6 (Ubuntu)
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.4.6 (Ubuntu)</center>
+</body>
+</html>
+
+ 
+2017-02-16 16:38:59,300 INFO enricher.response.ResponseQueueWorker [pool-2-thread-7] callback failed with 301 
+2017-02-16 16:38:59,300 INFO enricher.response.ResponseQueueWorker [pool-2-thread-7] message moved to the failed queue http://sandbox.rohub.org/rodl/ROs/IPWV01/  
+2017-03-03 15:04:22,596 INFO enricher.response.ResponseQueueWorker [main]  [+] Waiting for messages in RESPONSE queue. To exit press CTRL+C 
+2017-03-03 15:04:22,646 INFO enricher.response.ResponseQueueWorker [pool-2-thread-4]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/report-Campani-mensile-2016-11/  
+2017-03-03 15:04:24,574 INFO enricher.response.ResponseQueueWorker [pool-2-thread-4] callback failed with 401 
+2017-03-03 15:04:24,574 INFO enricher.response.ResponseQueueWorker [pool-2-thread-4]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/report-Campani-mensile-2016-11/  
+2017-03-03 15:04:24,609 INFO enricher.response.ResponseQueueWorker [pool-2-thread-5]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/report-Campani-mensile-2016-11/  
+2017-03-03 15:04:24,785 INFO enricher.response.ResponseQueueWorker [pool-2-thread-5] callback failed with 401 
+2017-03-03 15:04:24,786 INFO enricher.response.ResponseQueueWorker [pool-2-thread-5]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/report-Campani-mensile-2016-11/  
+2017-03-03 15:04:24,819 INFO enricher.response.ResponseQueueWorker [pool-2-thread-6]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/report-Campani-mensile-2016-11/  
+2017-03-03 15:04:25,014 INFO enricher.response.ResponseQueueWorker [pool-2-thread-6] callback failed with 401 
+2017-03-03 15:04:25,015 INFO enricher.response.ResponseQueueWorker [pool-2-thread-6]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/report-Campani-mensile-2016-11/  
+2017-03-03 15:04:25,048 INFO enricher.response.ResponseQueueWorker [pool-2-thread-7]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/report-Campani-mensile-2016-11/  
+2017-03-03 15:04:25,238 INFO enricher.response.ResponseQueueWorker [pool-2-thread-7] callback failed with 401 
+2017-03-03 15:04:25,238 INFO enricher.response.ResponseQueueWorker [pool-2-thread-7]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/report-Campani-mensile-2016-11/  
+2017-03-03 15:04:25,270 INFO enricher.response.ResponseQueueWorker [pool-2-thread-8]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/report-Campani-mensile-2016-11/  
+2017-03-03 15:04:25,490 INFO enricher.response.ResponseQueueWorker [pool-2-thread-8] callback failed with 401 
+2017-03-03 15:04:25,490 INFO enricher.response.ResponseQueueWorker [pool-2-thread-8]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/report-Campani-mensile-2016-11/  
+2017-03-03 15:04:25,523 INFO enricher.response.ResponseQueueWorker [pool-2-thread-9]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/report-Campani-mensile-2016-11/  
+2017-03-03 15:04:25,694 INFO enricher.response.ResponseQueueWorker [pool-2-thread-9] callback failed with 401 
+2017-03-03 15:04:25,695 INFO enricher.response.ResponseQueueWorker [pool-2-thread-9] message moved to the failed queue http://sandbox.rohub.org/rodl/ROs/report-Campani-mensile-2016-11/  
+2017-03-07 11:32:47,557 INFO enricher.core.EnricherProperties [main] Key: rabbitHost value: 192.168.99.100  
+2017-03-07 11:32:47,750 INFO enricher.response.ResponseQueueWorker [main]  [+] Waiting for messages in RESPONSE queue. To exit press CTRL+C 
+2017-03-07 11:32:47,773 INFO enricher.response.ResponseQueueWorker [pool-2-thread-4]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/LandMonitoring_Change_Detecting/  
+2017-03-07 11:33:49,356 INFO enricher.response.ResponseQueueWorker [pool-2-thread-4] callback failed with 503 
+2017-03-07 11:33:49,357 INFO enricher.response.ResponseQueueWorker [pool-2-thread-4]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/LandMonitoring_Change_Detecting/  
+2017-03-07 11:33:49,369 INFO enricher.response.ResponseQueueWorker [pool-2-thread-5]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/LandMonitoring_Change_Detecting/  
+2017-03-07 11:34:49,605 INFO enricher.response.ResponseQueueWorker [pool-2-thread-5] callback failed with 503 
+2017-03-07 11:34:49,606 INFO enricher.response.ResponseQueueWorker [pool-2-thread-5]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/LandMonitoring_Change_Detecting/  
+2017-03-07 11:34:49,614 INFO enricher.response.ResponseQueueWorker [pool-2-thread-6]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/LandMonitoring_Change_Detecting/  
+2017-03-07 11:35:49,862 INFO enricher.response.ResponseQueueWorker [pool-2-thread-6] callback failed with 500 
+2017-03-07 11:35:49,863 INFO enricher.response.ResponseQueueWorker [pool-2-thread-6]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/LandMonitoring_Change_Detecting/  
+2017-03-07 11:35:49,871 INFO enricher.response.ResponseQueueWorker [pool-2-thread-7]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/LandMonitoring_Change_Detecting/  
+2017-03-07 11:36:00,232 INFO enricher.response.ResponseQueueWorker [pool-2-thread-7] callback failed with 503 
+2017-03-07 11:36:00,232 INFO enricher.response.ResponseQueueWorker [pool-2-thread-7]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/LandMonitoring_Change_Detecting/  
+2017-03-07 11:36:00,240 INFO enricher.response.ResponseQueueWorker [pool-2-thread-8]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/LandMonitoring_Change_Detecting/  
+2017-03-07 11:37:00,473 INFO enricher.response.ResponseQueueWorker [pool-2-thread-8] callback failed with 500 
+2017-03-07 11:37:00,474 INFO enricher.response.ResponseQueueWorker [pool-2-thread-8]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/LandMonitoring_Change_Detecting/  
+2017-03-07 11:37:00,482 INFO enricher.response.ResponseQueueWorker [pool-2-thread-9]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/LandMonitoring_Change_Detecting/  
+2017-03-07 11:37:07,779 INFO enricher.response.ResponseQueueWorker [pool-2-thread-9] callback failed with 500 
+2017-03-07 11:37:07,780 INFO enricher.response.ResponseQueueWorker [pool-2-thread-9] message moved to the failed queue http://sandbox.rohub.org/rodl/ROs/LandMonitoring_Change_Detecting/  
+2017-03-09 09:50:01,007 INFO enricher.core.EnricherProperties [main] Key: rabbitHost value: 192.168.99.100  
+2017-03-09 09:50:01,015 INFO enricher.core.EnricherProperties [main] Key: SolrURL value: http://172.16.32.89:8983/solr/EverEst  
+2017-03-09 09:50:01,185 INFO enricher.response.ResponseQueueWorker [main]  [+] Waiting for messages in RESPONSE queue. To exit press CTRL+C 
+2017-03-09 09:50:01,194 INFO enricher.response.ResponseQueueWorker [pool-2-thread-4]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/LM_Golden_Exemplar/  
+2017-03-09 09:50:01,863 INFO enricher.response.ResponseQueueWorker [pool-2-thread-4]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/LM_Golden_Exemplar/  
+2017-03-09 09:50:01,868 INFO enricher.response.ResponseQueueWorker [pool-2-thread-5]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/LM_Golden_Exemplar/  
+2017-03-09 09:50:01,896 INFO enricher.response.ResponseQueueWorker [pool-2-thread-5]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/LM_Golden_Exemplar/  
+2017-03-09 09:50:01,897 INFO enricher.response.ResponseQueueWorker [pool-2-thread-6]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/LM_Golden_Exemplar/  
+2017-03-09 09:50:01,921 INFO enricher.response.ResponseQueueWorker [pool-2-thread-6]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/LM_Golden_Exemplar/  
+2017-03-09 09:50:01,924 INFO enricher.response.ResponseQueueWorker [pool-2-thread-7]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/LM_Golden_Exemplar/  
+2017-03-09 09:50:01,943 INFO enricher.response.ResponseQueueWorker [pool-2-thread-7]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/LM_Golden_Exemplar/  
+2017-03-09 09:50:01,946 INFO enricher.response.ResponseQueueWorker [pool-2-thread-8]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/LM_Golden_Exemplar/  
+2017-03-09 09:50:01,971 INFO enricher.response.ResponseQueueWorker [pool-2-thread-8]  requeuing the message for http://sandbox.rohub.org/rodl/ROs/LM_Golden_Exemplar/  
+2017-03-09 09:50:01,976 INFO enricher.response.ResponseQueueWorker [pool-2-thread-9]  [x] sending annotations of ro http://sandbox.rohub.org/rodl/ROs/LM_Golden_Exemplar/  
+2017-03-09 09:50:02,014 INFO enricher.response.ResponseQueueWorker [pool-2-thread-9] message moved to the failed queue http://sandbox.rohub.org/rodl/ROs/LM_Golden_Exemplar/  

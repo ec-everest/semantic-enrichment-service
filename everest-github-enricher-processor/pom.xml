@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>net.expertsystem.everest</groupId>
+    <artifactId>everest-github-enricher</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
+  
+  <groupId>net.expertsystem.everest</groupId>
+  <artifactId>everest-github-enricher-processor</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>everest-github-enricher-processor</name>
+  <url>http://maven.apache.org</url>
+  
+  
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+
+  <build>  
+<!-- 	<resources> -->
+<!--      <resource> -->
+<!--        <directory>src/main/resources</directory> -->
+<!--      </resource> -->
+<!--   	 </resources>   -->
+	<plugins>
+		<plugin>
+   			<artifactId>maven-assembly-plugin</artifactId>
+   			<executions>
+     				<execution>
+       				<phase>package</phase>
+       			<goals>
+         			<goal>single</goal>
+       			</goals>
+    			</execution>
+   		</executions>
+   		<configuration>
+			<archive>
+     			<manifest>
+       			<addClasspath>true</addClasspath>
+       			<mainClass>net.expertsystem.everest.semanticsearch.mainclass</mainClass>
+     			</manifest>
+    			 </archive>
+   	  		<descriptorRefs>
+       			<descriptorRef>jar-with-dependencies</descriptorRef>
+     		</descriptorRefs>
+   			</configuration>
+ 		</plugin> 
+		<!-- we want JDK 1.8 source and binary compatiblility -->
+		<plugin>
+			<groupId>org.apache.maven.plugins</groupId>
+			<artifactId>maven-compiler-plugin</artifactId>
+			<configuration>
+				<source>1.8</source>
+				<target>1.8</target>
+			</configuration>
+		</plugin>  
+	</plugins>	 
+  </build>
+  
+   <repositories>
+        <repository>
+            <id>esi-private</id>
+            <url>http://nexus.iberia.expertsystem.local/repository/esi-private</url>
+         </repository>
+    </repositories>
+      
+  <dependencies>
+    <dependency>
+			<groupId>org.apache.solr</groupId>
+			<artifactId>solr-solrj</artifactId>
+			<version>6.2.1</version>
+		</dependency>
+	<dependency>
+	    <groupId>com.optimaize.languagedetector</groupId>
+	    <artifactId>language-detector</artifactId>
+	    <version>0.6</version>
+	</dependency>
+      <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>3.8.1</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+	  		<groupId>com.rabbitmq</groupId>
+	  		<artifactId>amqp-client</artifactId>
+	  		<version>4.0.0</version>
+	</dependency>  
+<!--     	<dependency>    	 -->
+<!-- 			<groupId>org.apache.solr</groupId> -->
+<!-- 			<artifactId>solr-solrj</artifactId> -->
+<!-- 			<version>6.2.1</version> -->
+<!-- 		</dependency> -->
+		<dependency>
+	    	<groupId>org.apache.logging.log4j</groupId>
+		    <artifactId>log4j-api</artifactId>
+		    <version>2.7</version>
+	  	</dependency>
+	  	<dependency>
+	    	<groupId>org.apache.logging.log4j</groupId>
+	    	<artifactId>log4j-core</artifactId>
+	    	<version>2.7</version>
+	 	 </dependency>
+		  <dependency>
+	    	<groupId>org.apache.logging.log4j</groupId>
+	    	<artifactId>log4j-1.2-api</artifactId>
+	    	<version>2.7</version>
+	  	  </dependency>
+	 	 <dependency>
+		    <groupId>org.apache.logging.log4j</groupId>
+		    <artifactId>log4j-slf4j-impl</artifactId>
+		    <version>2.7</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.poi</groupId>
+			<artifactId>poi</artifactId>
+			<version>3.15</version>
+		</dependency>
+		<dependency>
+    		<groupId>org.apache.poi</groupId>
+    		<artifactId>poi-examples</artifactId>
+    		<version>3.15</version>
+		</dependency>
+		<dependency>
+    		<groupId>org.apache.pdfbox</groupId>
+    		<artifactId>pdfbox</artifactId>
+    		<version>2.0.3</version>
+		</dependency>
+		<dependency>
+    		<groupId>org.apache.httpcomponents</groupId>
+   			<artifactId>httpclient</artifactId>
+    		<version>4.5.1</version>
+		</dependency>
+		<dependency>
+   			<groupId>org.apache.jena</groupId>
+    		<artifactId>jena-arq</artifactId>
+    		<version>3.1.0</version>
+		</dependency>
+		<dependency>
+    		<groupId>org.apache.jena</groupId>
+    		<artifactId>jena-core</artifactId>
+    		<version>3.1.0</version>
+		</dependency>
+		<dependency>
+    		<groupId>org.apache.jena</groupId>
+    		<artifactId>jena-cmds</artifactId>
+    		<version>3.1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>net.expertsystem.lab</groupId>
+			<artifactId>gsl-java-client</artifactId>
+			<version>13.6.6</version>
+		</dependency>	  
+  </dependencies>
+    
+</project>

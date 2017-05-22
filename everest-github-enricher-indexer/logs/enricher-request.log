@@ -1,0 +1,9 @@
+2017-03-09 09:53:13,524 INFO enricher.core.EnricherProperties [main] Key: rabbitHost value: 192.168.99.100  
+2017-03-09 09:53:13,526 INFO enricher.core.EnricherProperties [main] Key: SolrURL value: http://172.16.32.89:8983/solr/EverEst  
+2017-03-09 09:53:13,627 INFO indexer.request.RequestQueueWorker [main]  [*] Waiting for messages. To exit press CTRL+C 
+2017-03-09 09:53:13,637 INFO indexer.request.RequestQueueWorker [pool-2-thread-4] Entering handle delivery 
+2017-03-09 09:53:13,646 INFO indexer.request.RequestQueueWorker [pool-2-thread-4]  [x] Received net.expertsystem.everest.enricher.ResearchObject@f9d8a3e  
+2017-03-09 09:53:13,646 INFO indexer.request.RequestQueueWorker [pool-2-thread-4] solr document for http://sandbox.rohub.org/rodl/ROs/LM_Golden_Exemplar/ 
+2017-03-09 09:53:16,278 INFO indexer.request.RequestQueueWorker [pool-2-thread-4] document added to solr 
+2017-03-09 10:26:47,673 WARN client.impl.ForgivingExceptionHandler [AMQP Connection 192.168.99.100:5672] An unexpected connection driver error occured (Exception message: Connection reset) 
+2017-03-09 11:11:14,264 WARN client.impl.ForgivingExceptionHandler [AMQP Connection 192.168.99.100:5672] An unexpected connection driver error occured (Exception message: Connection reset) 
