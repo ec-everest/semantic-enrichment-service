@@ -1,0 +1,11 @@
+#**
+ *  Check if Clustering is Enabled and then
+ *  call cluster_results.vm
+ *#
+
+
+## Replace the div content *if* Carrot^2 is available
+<script type="text/javascript">
+  $('#clusters').load("#url_for_solr/clustering#lens",
+    {'wt':'velocity', 'v.template':"cluster_results"});
+</script>

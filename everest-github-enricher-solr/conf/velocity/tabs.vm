@@ -1,0 +1,17 @@
+#**
+ *  Provides navigation/access to Advanced search options
+ *  Usually displayed near the top of the page
+ *#
+
+##TODO: Make some nice tabs here
+
+#set($queryOpts = $params.get("queryOpts"))
+
+<div class="tabs-bar" #annTitle("Click the link to demonstrate various Solr capabilities")>
+  ##queryOpts=$queryOpts
+
+  ## return to Simple Search
+  ##set( $selected = ($queryOpts && $queryOpts != "") )
+  #set( $selected = ! $queryOpts )
+
+</div>

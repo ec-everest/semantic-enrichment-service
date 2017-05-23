@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.4
+Created-By: 1.8.0_102-b14 (Oracle Corporation)
+Extension-Name: org.apache.solr
+Specification-Title: Apache Solr Search Server: solr-velocity
+Specification-Version: 6.2.1
+Specification-Vendor: The Apache Software Foundation
+Implementation-Title: org.apache.solr
+Implementation-Version: 6.2.1 43ab70147eb494324a1410f7a9f16a896a59bc6f
+  - shalin - 2016-09-15 05:20:51
+Implementation-Vendor: The Apache Software Foundation
+X-Compile-Source-JDK: 8
+X-Compile-Target-JDK: 8
+
