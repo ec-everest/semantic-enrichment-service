@@ -1,5 +1,7 @@
 # semantic-enrichment-service
 
+For a complete description of this tool and other research objects components visit http://everest.expertsystemlab.com
+
 The semantic enrichment service goal is to enhance the research object findability by adding to the user-generated annotations new semantic metadata that is automatically gathered from research object content, more specifically from the resources containing textual content. 
 
 The semantic enrichment produces metadata out of the textual content in the research object regarding: 
